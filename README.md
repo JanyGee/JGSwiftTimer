@@ -8,7 +8,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/JGSwiftTimer.svg?style=flat)](http://cocoapods.org/pods/JGSwiftTimer)
 [![Swift-5.0](http://img.shields.io/badge/Swift-5.0-blue.svg)]()
 
-JGSwiftTimer is a lightweight timer extension for Swift.     [OC](http://cocoapods.org)
+JGSwiftTimer is a lightweight timer extension for Swift.     [OC](https://github.com/JanyGee/JGOCTimer)
 
 ## Installation
 
